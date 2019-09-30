@@ -15,4 +15,7 @@
     "workbench.colorTheme": "Visual Studio Light",
     "editor.wordWrap": "on",
     "editor.fontSize": 12,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
 }
