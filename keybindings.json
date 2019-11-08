@@ -1,0 +1,18 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "alt+numpad3",
+    "command": "layoutEditorGroups",
+    "args": {
+        "orientation": 1,
+        "groups": [
+            {"groups": [{"size": 0.3},{"size": 0.3},{"size": 0.3}]}
+        ]
+    }
+  },
+  {
+    // for vim
+    "key": "f12",
+    "command": "toggleVim"
+  }
+]
