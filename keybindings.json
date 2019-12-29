@@ -2,6 +2,16 @@
 // Place your key bindings in this file to override the defaults
 [
   {
+    "key": "alt+numpad1",
+    "command": "layoutEditorGroups",
+    "args": {
+        "orientation": 1,
+        "groups": [
+            {"groups": [{"size": 1}]}
+        ]
+    }
+  },
+  {
     "key": "alt+numpad2",
     "command": "layoutEditorGroups",
     "args": {
