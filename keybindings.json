@@ -31,6 +31,9 @@
         ]
     }
   },
+  { "key": "alt+shift+f",
+    "command": "workbench.action.findInFiles" 
+  },
   {
     // for vim
     "key": "f12",
