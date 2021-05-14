@@ -15,14 +15,18 @@
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.colorCustomizations": {
         "editorWhitespace.foreground": "#808080",
-        // "editor.background": "#f2f2e9",
-        // "editor.foreground": "#0d0d0d",
+        "editor.background": "#1f1f1d",
+        "editor.foreground": "#ececec",
         "editorLineNumber.foreground": "#808080",
         "editorCursor.foreground": "#27a9ff",
-        // "editor.selectionBackground": "#9bd0ee",
-        // "editor.selectionHighlightBackground": "#c2f8dc",
-        // "editor.findMatchBackground": "#f9bf74",
-        "editor.findMatchHighlightBackground": "#98fcd649",
+
+        // "editor.selectionForeground": "#000000",
+        "editor.selectionBackground": "#0abaffe5",
+        "editor.selectionHighlightBackground": "#227df39f",
+        
+        "editor.findMatchBackground": "#00ff15c9",
+        "editor.findMatchHighlightBackground": "#00ff155b",
+
         "editor.lineHighlightBackground": "#000000",
         "editor.lineHighlightBorder": "#3b3b3b",
         "editorIndentGuide.background": "#f2f2e9",
@@ -32,8 +36,10 @@
         "statusBar.background": "#000000",
         "statusBar.foreground": "#ffffff",
         "statusBar.border": "#000000",
+
         "menubar.selectionForeground": "#000000",
-        "menubar.selectionBackground": "#9bd0ee",
+        "menubar.selectionBackground": "#aefa22",
+
         // "titleBar.activeBackground": "#dddddd",
         // "titleBar.activeForeground": "#000000",
         // "titleBar.inactiveBackground": "#ffffff",
@@ -45,6 +51,7 @@
     "editor.fontSize": 12,
     "editor.renderWhitespace": "all",
     "editor.tabSize": 2,
+    "editor.glyphMargin": true,
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
     "workbench.iconTheme": "vs-minimal",
     "files.associations": {
