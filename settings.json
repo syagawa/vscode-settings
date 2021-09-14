@@ -70,5 +70,7 @@
     ],
     "emmet.includeLanguages": {
         "erb": "html"
-    }
+    },
+    "editor.lineNumbers": "on",
+    "editor.bracketPairColorization.enabled": true
 }
