@@ -38,5 +38,9 @@
     // for vim
     "key": "f12",
     "command": "toggleVim"
+  },
+  {
+    "key": "alt+shift+5",
+     "command": "editor.emmet.action.matchTag"
   }
 ]
