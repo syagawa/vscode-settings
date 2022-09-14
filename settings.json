@@ -1,4 +1,5 @@
 {
+    "window.newWindowDimensions": "inherit",
     "remote.SSH.lockfilesInTmp": true,
     "remote.SSH.showLoginTerminal": true,
     "remote.SSH.configFile": "C:\\Users\\xxx\\.ssh\\config",
