@@ -73,5 +73,6 @@
         "erb": "html"
     },
     "editor.lineNumbers": "on",
-    "editor.bracketPairColorization.enabled": true
+    "editor.bracketPairColorization.enabled": true,
+    "editor.minimap.enabled": true
 }
