@@ -74,5 +74,7 @@
     },
     "editor.lineNumbers": "on",
     "editor.bracketPairColorization.enabled": true,
-    "editor.minimap.enabled": true
+    "editor.minimap.enabled": true,
+    "update.mode": "start",
+    "update.enableWindowsBackgroundUpdates": false
 }
